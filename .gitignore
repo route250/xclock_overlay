@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# local
+.vscode/
+*~
+.DS_Store
+tmp/
+*.swp
+*.swo
+*.swm
+*.swp
